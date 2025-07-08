@@ -345,7 +345,7 @@ const beverlyHillsCatfish = () => {
                 <h3 className="text-2xl font-bold mb-4">Make a Reservation</h3>
                 <p className="text-orange-100 mb-6">Call us or visit in person to reserve your table for the best catfish experience in Beverly Hills!</p>
                 <button className="bg-white text-orange-600 font-bold py-3 px-8 rounded-full hover:bg-orange-50 transition-colors duration-200">
-                  Call Now: (310) 555-FISH
+                  Call Now: 0244177663 or 0244363179
                 </button>
               </div>
             </div>
