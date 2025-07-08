@@ -315,7 +315,7 @@ const beverlyHillsCatfish = () => {
                     </div>
                     <div>
                       <h4 className="font-bold text-gray-800">Address</h4>
-                      <p className="text-gray-600">123 Beverly Hills Blvd, Beverly Hills, CA 90210</p>
+                      <p className="text-gray-600">Ashongman Estate, wawa street</p>
                     </div>
                   </div>
                   <div className="flex items-center space-x-4">
