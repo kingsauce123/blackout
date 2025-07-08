@@ -324,7 +324,7 @@ const beverlyHillsCatfish = () => {
                     </div>
                     <div>
                       <h4 className="font-bold text-gray-800">Phone</h4>
-                      <p className="text-gray-600">(310) 555-FISH</p>
+                      <p className="text-gray-600">0244177663 or 0244363179</p>
                     </div>
                   </div>
                   <div className="flex items-center space-x-4">
